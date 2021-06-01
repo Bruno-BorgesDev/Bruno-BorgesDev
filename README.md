@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+  ![Snake animation](https://https://github.com/Bruno-BorgesDev/Bruno-BorgesDev/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **Bruno-BorgesDev/Bruno-BorgesDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
