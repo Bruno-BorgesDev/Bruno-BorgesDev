@@ -1,7 +1,9 @@
 # Hello World !! 🌎 
 My name is Bruno Borges 👋
+
 &nbsp;
-I'm a fron-end developer.
+
+I'm a front-end developer.
 
 
 ## Follow-me 😁
